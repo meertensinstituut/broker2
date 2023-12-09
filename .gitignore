@@ -8,6 +8,5 @@
 target
 tests
 gh-pages
-composer.lock
 vendor
 phpdoc
